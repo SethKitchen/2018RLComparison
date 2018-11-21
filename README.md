@@ -1,6 +1,10 @@
 # 2018RLComparison
 Comparing IMPALA and APE-X Algorithms against Atari Games
 
+# Games
+
+Tested with Alien, Montezuma's Revenge, Ms. Pacman, and Seaquest
+
 # MACHINE
 
 Google Cloud n1-highmem-16 (16 vCPUs, 104 GB memory) with CPU platform and 2 x NVIDIA Tesla K80 GPUs running
@@ -20,6 +24,12 @@ Using AdeptRL for impala. (https://github.com/heronsystems/adeptRL). Had to chan
     mpiexec -n 12 python -m adept.scripts.impala ActorCriticVtrace --env-id AlienNoFrameskip-v4 --gpu-id 0 1
 
 Where env-id changes to each game tested.
+
+# Comparable Papers
+
+https://arxiv.org/pdf/1710.02298.pdf
+
+
 
 
 
