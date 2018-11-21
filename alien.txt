@@ -1,0 +1,233 @@
+SC2 Environment not detected
+SC2 Environment not detected
+SC2 Environment not detected
+SC2 Environment not detected
+SC2 Environment not detected
+SC2 Environment not detected
+SC2 Environment not detected
+SC2 Environment not detected
+SC2 Environment not detected
+SC2 Environment not detected
+SC2 Environment not detected
+SC2 Environment not detected
+
+                     __           __
+          ____ _____/ /__  ____  / /_
+         / __ `/ __  / _ \/ __ \/ __/
+        / /_/ / /_/ /  __/ /_/ / /_
+        \__,_/\__,_/\___/ .___/\__/
+                       /_/           
+                          v0.2.0dev0 
+Root variables synced
+10 variables synced
+9 variables synced
+5 variables synced
+8 variables synced
+1 variables synced
+4 variables synced
+11 variables synced
+3 variables synced
+7 variables synced
+2 variables synced
+6 variables synced
+WARNING 7: Long wait for variable updates. Waited 0.12581491470336914
+WARNING 6: Long wait for variable updates. Waited 0.16907024383544922
+WARNING 5: Long wait for variable updates. Waited 0.10494875907897949
+WARNING 11: Long wait for variable updates. Waited 0.10269665718078613
+WARNING 11: Long wait for variable updates. Waited 0.12426352500915527
+WARNING 1: Long wait for variable updates. Waited 0.11596536636352539
+WARNING 11: Long wait for variable updates. Waited 0.1188809871673584
+WARNING 7: Long wait for variable updates. Waited 0.5397341251373291
+WARNING 5: Long wait for variable updates. Waited 0.512742280960083
+WARNING 5: Long wait for variable updates. Waited 0.10645484924316406
+========================================
+Train Per Second 0.3326877258523386
+Avg Queue Length 27.21
+Current Queue Length 25
+Thread wait times ['113.39', '114.36', '97.24', '103.37', '100.98', '114.81', '114.90', '95.74', '110.13', '109.54', '100.48']
+========================================
+WARNING 11: Long wait for variable updates. Waited 0.11926531791687012
+WARNING 5: Long wait for variable updates. Waited 0.16832351684570312
+========================================
+Train Per Second 0.34142254622778256
+Avg Queue Length 27.755
+Current Queue Length 28
+Thread wait times ['240.50', '228.83', '209.11', '225.38', '228.39', '231.98', '216.55', '216.90', '225.03', '230.75', '199.19']
+========================================
+WARNING 4: Long wait for variable updates. Waited 0.13100457191467285
+WARNING 2: Long wait for variable updates. Waited 0.11946678161621094
+========================================
+Train Per Second 0.34379342100051835
+Avg Queue Length 28.123333333333335
+Current Queue Length 29
+Thread wait times ['369.82', '373.44', '358.72', '359.59', '372.70', '384.37', '367.88', '374.47', '354.00', '373.85', '339.82']
+========================================
+WARNING 1: Long wait for variable updates. Waited 0.12477588653564453
+WARNING 1: Long wait for variable updates. Waited 0.10237431526184082
+WARNING 11: Long wait for variable updates. Waited 0.1060490608215332
+WARNING 11: Long wait for variable updates. Waited 0.10384154319763184
+WARNING 6: Long wait for variable updates. Waited 0.10878634452819824
+WARNING 2: Long wait for variable updates. Waited 0.10528039932250977
+WARNING 7: Long wait for variable updates. Waited 1.9917657375335693
+WARNING 5: Long wait for variable updates. Waited 0.15530037879943848
+========================================
+Train Per Second 0.3430702453860859
+Avg Queue Length 28.1075
+Current Queue Length 32
+Thread wait times ['503.46', '492.55', '477.05', '471.16', '509.35', '510.55', '502.95', '484.87', '479.26', '499.05', '471.98']
+========================================
+WARNING 8: Long wait for variable updates. Waited 0.1797618865966797
+WARNING 5: Long wait for variable updates. Waited 0.10787081718444824
+========================================
+Train Per Second 0.34606681289502395
+Avg Queue Length 28.156
+Current Queue Length 22
+Thread wait times ['617.77', '603.82', '599.63', '593.61', '620.86', '637.03', '612.74', '606.81', '592.04', '620.08', '591.23']
+========================================
+WARNING 8: Long wait for variable updates. Waited 0.12837767601013184
+WARNING 4: Long wait for variable updates. Waited 0.1273641586303711
+WARNING 11: Long wait for variable updates. Waited 2.0131430625915527
+WARNING 9: Long wait for variable updates. Waited 1.9525671005249023
+WARNING 1: Long wait for variable updates. Waited 0.10968208312988281
+WARNING 7: Long wait for variable updates. Waited 0.5596723556518555
+WARNING 4: Long wait for variable updates. Waited 0.11860299110412598
+========================================
+Train Per Second 0.3453688841923272
+Avg Queue Length 28.188333333333333
+Current Queue Length 28
+Thread wait times ['721.94', '723.95', '751.08', '721.64', '765.78', '753.36', '738.22', '740.08', '695.10', '731.90', '711.65']
+========================================
+WARNING 4: Long wait for variable updates. Waited 0.13326287269592285
+WARNING 10: Long wait for variable updates. Waited 0.10183882713317871
+WARNING 11: Long wait for variable updates. Waited 0.10141634941101074
+WARNING 1: Long wait for variable updates. Waited 0.10839414596557617
+WARNING 4: Long wait for variable updates. Waited 0.13741230964660645
+WARNING 10: Long wait for variable updates. Waited 0.10097408294677734
+========================================
+Train Per Second 0.3447038036527605
+Avg Queue Length 28.187142857142856
+Current Queue Length 31
+Thread wait times ['847.03', '845.72', '880.46', '843.35', '903.44', '884.47', '866.49', '860.67', '830.09', '870.31', '853.26']
+========================================
+WARNING 8: Long wait for variable updates. Waited 0.14728403091430664
+WARNING 1: Long wait for variable updates. Waited 0.10954546928405762
+WARNING 4: Long wait for variable updates. Waited 0.1255640983581543
+WARNING 1: Long wait for variable updates. Waited 0.1044778823852539
+WARNING 9: Long wait for variable updates. Waited 0.12250161170959473
+WARNING 9: Long wait for variable updates. Waited 0.10728192329406738
+WARNING 1: Long wait for variable updates. Waited 0.11135458946228027
+========================================
+Train Per Second 0.343969532781919
+Avg Queue Length 28.2275
+Current Queue Length 27
+Thread wait times ['970.44', '986.09', '1010.66', '977.45', '1047.09', '1025.26', '1002.15', '978.18', '971.65', '988.20', '999.71']
+========================================
+WARNING 5: Long wait for variable updates. Waited 0.5211043357849121
+WARNING 8: Long wait for variable updates. Waited 0.1376965045928955
+WARNING 9: Long wait for variable updates. Waited 0.10136032104492188
+WARNING 8: Long wait for variable updates. Waited 0.14534354209899902
+WARNING 6: Long wait for variable updates. Waited 0.10463643074035645
+WARNING 1: Long wait for variable updates. Waited 0.10645461082458496
+========================================
+Train Per Second 0.34422121753267215
+Avg Queue Length 28.296666666666667
+Current Queue Length 29
+Thread wait times ['1127.45', '1113.62', '1142.73', '1105.24', '1189.92', '1154.78', '1123.11', '1112.35', '1125.76', '1134.82', '1150.80']
+========================================
+WARNING 11: Long wait for variable updates. Waited 0.5670332908630371
+WARNING 9: Long wait for variable updates. Waited 1.6211814880371094
+========================================
+Train Per Second 0.34526620745707787
+Avg Queue Length 28.28
+Current Queue Length 29
+Thread wait times ['1225.34', '1222.73', '1264.47', '1234.54', '1285.17', '1253.19', '1239.49', '1222.94', '1219.20', '1238.27', '1260.13']
+========================================
+WARNING 5: Long wait for variable updates. Waited 0.11861658096313477
+========================================
+Train Per Second 0.34439260930637533
+Avg Queue Length 28.316363636363636
+Current Queue Length 31
+Thread wait times ['1359.66', '1357.18', '1412.29', '1361.09', '1425.65', '1406.91', '1390.69', '1376.19', '1352.30', '1367.24', '1394.31']
+========================================
+WARNING 6: Long wait for variable updates. Waited 0.1209573745727539
+WARNING 6: Long wait for variable updates. Waited 0.1333928108215332
+========================================
+Train Per Second 0.34426327491399417
+Avg Queue Length 28.335
+Current Queue Length 32
+Thread wait times ['1505.50', '1492.84', '1544.87', '1518.72', '1554.53', '1541.47', '1536.63', '1514.47', '1465.44', '1507.70', '1524.04']
+========================================
+WARNING 9: Long wait for variable updates. Waited 0.12863588333129883
+WARNING 2: Long wait for variable updates. Waited 0.10805392265319824
+========================================
+Train Per Second 0.3440549685922243
+Avg Queue Length 28.35
+Current Queue Length 27
+Thread wait times ['1653.95', '1636.43', '1693.16', '1656.37', '1703.74', '1675.83', '1679.24', '1649.79', '1596.24', '1645.52', '1655.48']
+========================================
+WARNING 10: Long wait for variable updates. Waited 0.12872648239135742
+WARNING 1: Long wait for variable updates. Waited 0.11493730545043945
+========================================
+Train Per Second 0.34407294582266945
+Avg Queue Length 28.374285714285715
+Current Queue Length 32
+Thread wait times ['1799.22', '1775.56', '1829.26', '1776.24', '1847.58', '1813.96', '1827.85', '1779.32', '1729.84', '1769.45', '1797.01']
+========================================
+Host stopping threaded batch recvs
+Thread listening for 7 exiting
+Thread listening for 1 exiting
+Thread listening for 9 exiting
+Thread listening for 6 exiting
+Thread listening for 8 exiting
+Thread listening for 2 exiting
+Thread listening for 4 exiting
+Thread listening for 5 exiting
+Thread listening for 11 exiting
+Thread listening for 10 exiting
+Thread listening for 3 exiting
+Host sending stop
+Host waiting on recieving stops
+Still waiting on 1 to finish
+Still waiting on 2 to finish
+Host recieved 3 done.
+Still waiting on 4 to finish
+Still waiting on 5 to finish
+Still waiting on 6 to finish
+Host recieved 7 done.
+Host recieved 8 done.
+Still waiting on 9 to finish
+Host recieved 10 done.
+Host recieved 11 done.
+Still waiting on 1 to finish
+Still waiting on 2 to finish
+Still waiting on 4 to finish
+Still waiting on 5 to finish
+Still waiting on 6 to finish
+Still waiting on 9 to finish
+Still waiting on 1 to finish
+Still waiting on 2 to finish
+Still waiting on 4 to finish
+Still waiting on 5 to finish
+Still waiting on 6 to finish
+Still waiting on 9 to finish
+Still waiting on 1 to finish
+Still waiting on 2 to finish
+Still waiting on 4 to finish
+Still waiting on 5 to finish
+Still waiting on 6 to finish
+Still waiting on 9 to finish
+Waited 5 times for 1, skipping
+Still waiting on 1 to finish
+Waited 5 times for 2, skipping
+Still waiting on 2 to finish
+Waited 5 times for 4, skipping
+Still waiting on 4 to finish
+Waited 5 times for 5, skipping
+Still waiting on 5 to finish
+Waited 5 times for 6, skipping
+Still waiting on 6 to finish
+Waited 5 times for 9, skipping
+Still waiting on 9 to finish
+Host sees all threads as stopped.
+Abort is in progress...hit ctrl-c again within 5 seconds to forcibly terminate
+
