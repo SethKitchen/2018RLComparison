@@ -7,7 +7,7 @@ Tested with Alien, Montezuma's Revenge, Ms. Pacman, and Seaquest
 
 # MACHINE
 
-Google Cloud n1-highmem-16 (16 vCPUs, 104 GB memory) with CPU platform and 2 x NVIDIA Tesla K80 GPUs running
+Google Cloud n1-highmem-16 (8 vCPUs, 54 GB memory) with CPU platform and 1 x NVIDIA Tesla K80 GPUs running
 
 Debian GNU/Linux 9.6 (stretch) (GNU/Linux 4.9.0-8-amd64 x86_64\n) -- Deep Learning OS Option
 
@@ -21,7 +21,7 @@ CUDA 9.2
 
 Using AdeptRL for impala. (https://github.com/heronsystems/adeptRL). Had to change ._all_buffers() to .buffers(). Command run was 
 
-    mpiexec -n 12 python -m adept.scripts.impala ActorCriticVtrace --env-id AlienNoFrameskip-v4 --gpu-id 0 1
+    mpiexec -n 9 python -m adept.scripts.impala ActorCriticVtrace --env-id MsPacmanNoFrameskip-v4 --gpu-id 0 2>&1 | tee mspacman.txt
 
 Where env-id changes to each game tested.
 
