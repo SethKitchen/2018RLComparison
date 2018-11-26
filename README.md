@@ -3,7 +3,7 @@ Comparing IMPALA and APE-X Algorithms against Atari Games
 
 # Games
 
-Tested with Alien, Montezuma's Revenge, Ms. Pacman, and Seaquest
+Tested with Alien, Montezuma's Revenge, and Ms. Pacman
 
 # MACHINE
 
