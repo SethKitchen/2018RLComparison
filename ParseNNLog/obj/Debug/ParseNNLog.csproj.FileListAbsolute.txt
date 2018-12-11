@@ -1,0 +1,10 @@
+C:\Users\ArianaGrande\source\repos\ParseNNLog\ParseNNLog\bin\Debug\mspacman.txt
+C:\Users\ArianaGrande\source\repos\ParseNNLog\ParseNNLog\bin\Debug\ParseNNLog.exe.config
+C:\Users\ArianaGrande\source\repos\ParseNNLog\ParseNNLog\bin\Debug\ParseNNLog.exe
+C:\Users\ArianaGrande\source\repos\ParseNNLog\ParseNNLog\bin\Debug\ParseNNLog.pdb
+C:\Users\ArianaGrande\source\repos\ParseNNLog\ParseNNLog\obj\Debug\ParseNNLog.csprojAssemblyReference.cache
+C:\Users\ArianaGrande\source\repos\ParseNNLog\ParseNNLog\obj\Debug\ParseNNLog.csproj.CoreCompileInputs.cache
+C:\Users\ArianaGrande\source\repos\ParseNNLog\ParseNNLog\obj\Debug\ParseNNLog.exe
+C:\Users\ArianaGrande\source\repos\ParseNNLog\ParseNNLog\obj\Debug\ParseNNLog.pdb
+C:\Users\ArianaGrande\source\repos\ParseNNLog\ParseNNLog\bin\Debug\montezuma.txt
+C:\Users\ArianaGrande\source\repos\ParseNNLog\ParseNNLog\bin\Debug\alien.txt
